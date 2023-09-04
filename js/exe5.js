@@ -14,3 +14,5 @@ console.log(`Nome: ${nome}
 Cidade: ${cidade}
 País: ${pais}
 A+B: ${(a+b)}`)
+
+let nome2 = parseInt(prompt('Entre seu nome!'))
